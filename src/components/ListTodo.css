@@ -1,0 +1,15 @@
+.link {
+  cursor: pointer;
+}
+
+.link:hover {
+  opacity: 0.5;
+}
+
+.active {
+  color: #218838;
+}
+
+span {
+  cursor: pointer;
+}
